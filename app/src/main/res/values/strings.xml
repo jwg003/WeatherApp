@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HourHalf</string>
+
+
+    <!--Weather Activity-->
+    <string name="refresh_button">Refresh</string>
+    <string name="Text_view">--</string>
+
+</resources>
